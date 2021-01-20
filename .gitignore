@@ -1,0 +1,4 @@
+*.pyc
+*/source/__pycache__/*
+projet_RI/.idea/
+.DS_Store
